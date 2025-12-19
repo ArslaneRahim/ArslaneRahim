@@ -3,7 +3,7 @@
 I am an **Electronics Engineer** specializing in **Embedded Systems**, mainly working on projects using the **STM32** family. I have experience in **C and Python programming** and designing **PCB boards** using **KiCad**.
 
 [![GitHub](https://img.shields.io/github/followers/Bmohammed-EF?label=Follow&style=for-the-badge&logo=github)](https://github.com/ArslaneRahim)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)]([https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ArsRahim](https://x.com/ArslanRahim22))
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)]([https://x.com/ArslanRahim22_name=ArsRahim])
 
 ---
 
