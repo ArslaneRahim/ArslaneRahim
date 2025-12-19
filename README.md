@@ -41,7 +41,7 @@ I am an electronics engineering student with a strong interest in **embedded sys
 ---
 
 ## 📊 GitHub Stats
-<img align="left" alt="Abdrrahim Arslane GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bmohammed-EF&show_icons=true" />
+<img align="left" alt="Abdrrahim Arslane GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ArslaneRahim&show_icons=true" />
 
 <br /><br />
 
