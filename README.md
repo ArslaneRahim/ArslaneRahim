@@ -6,7 +6,7 @@
 I am an electronics engineering student with a strong interest in **embedded systems development** and **hardware design**. I mainly work with **STM32 microcontrollers**, develop applications using **C**, and design **PCB boards** using **KiCad**. I am also expanding my skills in **Python** for automation and embedded-related tasks.
 
 [![GitHub Followers](https://img.shields.io/github/followers/Bmohammed-EF?label=Follow&style=for-the-badge&logo=github)](https://github.com/ArslaneRahim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdrrahim%20Arslane-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/](https://www.linkedin.com/in/arslane-abdrrahim-55998a379/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdrrahim%20Arslane-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/](https://www.linkedin.com/in/arslane-abdrrahim-55998a379/)
 [![Twitter](https://img.shields.io/badge/Twitter-@Abdrrahim_Arslane-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/ArslanRahim22)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:abdrahimarslane@gmail.com)
 
